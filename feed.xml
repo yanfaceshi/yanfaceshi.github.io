@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研发测试圈</title>
+    <link>http://yanfaceshi.github.io/</link>
+    <description>Recent content on 研发测试圈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2015. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 28 Feb 2016 20:52:21 +0800</lastBuildDate>
+    <atom:link href="http://yanfaceshi.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://yanfaceshi.github.io/post/first/</link>
+      <pubDate>Sun, 28 Feb 2016 20:52:21 +0800</pubDate>
+      
+      <guid>http://yanfaceshi.github.io/post/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;关于我:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;关于我&lt;/h1&gt;
+
+&lt;p&gt;韩葆，毕业于北京工业大学计算机学院，早年在Sun中国研究院为OpenSolaris操作系统搭建测试平台。后进入安全测试领域，深入研究白盒测试、静态分析、网络协议Fuzzing、渗透测试等技术。&lt;/p&gt;
+
+&lt;p&gt;作为行业先驱者，笔者经历了研发测试行业和软件安全行业在中国从无到有，从小到大的整个过程。2013年作为中国区首席工程师加入Coverity（2014年被Synopsys收购），成功的将静态分析技术引入中国，在2014年和2015年两次作为中国质量竞争力大会演讲嘉宾介绍代码静态分析与软件安全测试技术。目前担任Synopsys Software Integrity Group客户经理，致力于软件团队的研发测试与软件安全平台搭建，改善软件质量，提高软件安全性。&lt;/p&gt;
+
+&lt;p&gt;目前负责的 Software Integrity Group 全线产品：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Coverity-来自斯坦福大学的静态分析工具。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ProteCode-代码级别开源版权与安全漏洞扫描工具。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Appcheck-二进制文件级别开源版权与安全漏洞扫描工具。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Defensics-Heartbleed(心脏出血漏洞)的发现者，协议级别的Fuzzing工具。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Goanna-行业代码规范设置工具。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Seeker-网站安全审计与渗透测试。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我的联系方式：13311307163，Bao.Han@synopsys.com。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://yanfaceshi.github.io/about/</link>
+      <pubDate>Sun, 28 Feb 2016 20:52:07 +0800</pubDate>
+      
+      <guid>http://yanfaceshi.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
