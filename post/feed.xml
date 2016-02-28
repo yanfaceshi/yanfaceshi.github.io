@@ -7,7 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 27 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://yanfaceshi.github.io/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coverity发布8.0版本研发测试平台</title>
+      <link>http://yanfaceshi.github.io/2016/02/27/3640179/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://yanfaceshi.github.io/2016/02/27/3640179/</guid>
+      <description>&lt;p&gt;#Synposys 发布最新的Coverity 8.0 产品，全新的解决方案将进一步协助研发团队保障产品的质量和安全！&lt;/p&gt;
+
+&lt;p&gt;##Coverity 8.0的重量级新功能添加与增强&lt;/p&gt;
+
+&lt;p&gt;###静态分析引擎-百尺竿头，更进一步&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;新语言支持： PHP, Python&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;添加面向C#和JavaScript的安全性检查功能&lt;/li&gt;
+&lt;li&gt;新增并增强了面向 C, C++, C#, JavaScript, Objective-C, Objective-C++, PHP, Python的多个Checker&lt;/li&gt;
+&lt;li&gt;全面支持Visual Studio 2015和最新版本的gcc, clang等编译器&lt;/li&gt;
+&lt;li&gt;支持OpenJDK 1.8&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;研发人员本地桌面分析与检测功能进一步扩展支持&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Visual Studio 2015, IntelliJ IDEA, Android Studio的集成&lt;/li&gt;
+&lt;li&gt;增强桌面分析的灵活度、配置和早期版本的兼容性。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;单元测试辅助能力提升&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;针对代码覆盖率，新增轻量级的C/C++ (Windows 与ARM Linux)插桩功能&lt;/li&gt;
+&lt;li&gt;完善远程执行的C/C++ Linux应用测试用例可视性&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;产品易用性提升&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;新的 Kerberos 单点登录支持&lt;/li&gt;
+&lt;li&gt;完善Coverity Wizard, 认证管理&lt;/li&gt;
+&lt;li&gt;完善缺陷平台（Coverity Platform/Connect），提供更灵活的配置、管理与维护功能&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;代码规范标准合规性检测功能优化&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;完善的MISRA合规性报告-支持全线MISRA规范&lt;/li&gt;
+&lt;li&gt;Visual Studio 和 Eclipse IDE 插件的MISRA检测支持&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;第三方集成与操作系统支持&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TFS2015源代码管理器缺陷平台（Coverity Platform/Connect）&lt;/li&gt;
+&lt;li&gt;开启Bugzilla自动集成接口&lt;/li&gt;
+&lt;li&gt;支持Windows 10, Mac OS X 10.11&lt;/li&gt;
+&lt;li&gt;改进缺陷平台（Coverity Platform/Connect）的安全性&lt;/li&gt;
+&lt;li&gt;简单易用的SSL 验证配置&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Synopsys 将持续不断的改善我们的产品安全性，我们极力推荐所有的客户都使用最新版本的Coverity产品。&lt;/p&gt;
+
+&lt;p&gt;如果您对Coverity 产品感兴趣，请联系原厂销售与技术支持韩葆（Bob Han）：:13311307163，Bao.Han@synopsys.com，微信：42049873，也欢迎大家关注我们的微信公众号：研发测试圈。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
